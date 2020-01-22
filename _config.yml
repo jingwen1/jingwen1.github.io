@@ -1,6 +1,6 @@
 # Basic
 title: Jing Wen
-subtitle: 95后，非典型摩
+subtitle: 95后，非典型摩羯座
 welcome_message: 谁不爱自由呢
 description: ❤❤❤
 creator: A blog for little things in life.
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
@@ -37,8 +37,8 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
+    weibo: u/3770640990?is_all=1
+    github: jingwen1
 
 # Google Analytics
 ga:
