@@ -1,11 +1,11 @@
 # Basic
 title: Jing Wen
-subtitle: A blog for little things in life
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+subtitle: 95后，非典型摩
+welcome_message: 谁不爱自由呢
+description: ❤❤❤
+creator: A blog for little things in life.
 
-url: "http://vno.onevcat.com"
+url: "http://jingwen.ink"
 
 permalink: /:year/:month/:title/
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: blue
 
 # The blog button should not be removed.
 blog_button:
@@ -39,9 +39,6 @@ comment:
 social:
     weibo: onevcat
     github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
 
 # Google Analytics
 ga:
